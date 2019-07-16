@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.arch.core:core-common:2.1.0-alpha02@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0-alpha02/53ae30da9c209e6c62655bb10022cd5f5043dce3/core-common-2.1.0-alpha02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0-alpha02/53c262473c3645ab6daa793796554fc8a659a8ed/core-common-2.1.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
